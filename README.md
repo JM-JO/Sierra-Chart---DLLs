@@ -1,4 +1,4 @@
-## Various libraries created for Sierra Chart trading platform
+## Various libraries for Sierra Chart trading platform
 Dozens of studies  
 Efficient and comprehensive pivot point calculations  
 Various execution algorithms  
