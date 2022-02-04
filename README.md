@@ -1,11 +1,8 @@
-# hello-world
-Tutoriel de GitHub 
+# Various DLLs created for Sierra Chart trading platform
+Efficient and comprehensive pivot point calculations
+Various execution algorithms
 
-Je raconte ma vie ...
-    indent 4
-        indent 8
-  ident 2
-# titre	1 croisillon
-## titre 2 croisillons
-### titre 3 croisillons
-##### titre	5 croisillons
+
+
+# Sierra users, how good is your data feed?
+https://www.sierrachart.com/SupportBoard.php?ThreadID=48304&Page=1
