@@ -4,9 +4,9 @@ Efficient and comprehensive pivot point calculations
 Various execution algorithms  
 Reliable lag measurement tools  
 
-\
-\
-\
+a\
+b\
+c\
 
 
 # Sierra users, how fast is your data feed?
