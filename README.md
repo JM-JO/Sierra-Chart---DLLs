@@ -1,6 +1,6 @@
 # Various DLLs created for Sierra Chart trading platform
-Efficient and comprehensive pivot point calculations
-Various execution algorithms
+Efficient and comprehensive pivot point calculations  
+Various execution algorithms  
 
 
 
