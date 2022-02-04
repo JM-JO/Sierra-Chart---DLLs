@@ -6,7 +6,7 @@ Reliable lag measurement tools
 
 a\
 b\
-c\
+
 
 
 # Sierra users, how fast is your data feed?
