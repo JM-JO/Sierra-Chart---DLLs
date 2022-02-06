@@ -1,7 +1,7 @@
 ## Various libraries for Sierra Chart trading platform
-Dozens of studies  
+Dozens of studies for volatility, price action, spreads     
 Efficient and comprehensive pivot point calculations  
-Various execution algorithms  
+Various execution algorithms for trend and countertrend strategies  
 Reliable lag measurement tools  
 
 
